@@ -1,5 +1,5 @@
 # Titanic — Machine Learning from Disaster
-Short Kaggle starter project to predict Titanic survivors.
+Kaggle starter project to predict Titanic survivors.
 
 ## Code & Analysis
 All analysis and code live in [main.ipynb](main.ipynb).
